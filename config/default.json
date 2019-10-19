@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://daveboehm:Crunchy1!@db-cluster-0-8azzb.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://daveboehm:Crunchy1!@db-cluster-0-8azzb.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
